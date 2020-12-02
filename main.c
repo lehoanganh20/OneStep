@@ -17,6 +17,7 @@ int main(int argc, char *argv[]) {
 void hot()
 {
     printf("cold");
+	printf("hot");
 }
 void Pw_Check(char c[])
 {
