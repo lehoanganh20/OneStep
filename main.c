@@ -23,6 +23,10 @@ void time()
 {
 	printf("hour");
 }
+void night()
+{
+	printf("24h);
+}
 void Pw_Check(char c[])
 {
     int i=0;
