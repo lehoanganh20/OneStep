@@ -19,6 +19,10 @@ void hot()
     printf("cold");
 	printf("hot");
 }
+void time()
+{
+	printf("hour");
+}
 void Pw_Check(char c[])
 {
     int i=0;
