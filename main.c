@@ -25,6 +25,7 @@ void time()
 }
 void night()
 {
+	printf("24h);
 	printf("12h");
 }
 void Pw_Check(char c[])
