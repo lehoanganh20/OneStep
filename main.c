@@ -28,6 +28,9 @@ void night()
 	printf("12h");
 	printf("24h");
 }
+void Day()
+{
+	printf("abc");
 void Day
 {
 	printf("as");
