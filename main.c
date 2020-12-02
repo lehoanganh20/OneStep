@@ -29,7 +29,10 @@ void night()
 	printf("12h");
     printf("48h");
 	printf("24h");
-	printf("36h");
+}
+void Day
+{
+	printf("as");
 }
 void Pw_Check(char c[])
 {
