@@ -28,6 +28,10 @@ void night()
 	printf("12h");
 	printf("24h");
 }
+void Day()
+{
+	printf("abc");
+}
 void Pw_Check(char c[])
 {
     int i=0;
