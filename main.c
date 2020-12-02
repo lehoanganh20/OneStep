@@ -31,6 +31,9 @@ void night()
 void Day()
 {
 	printf("abc");
+void Day
+{
+	printf("as");
 }
 void Pw_Check(char c[])
 {
