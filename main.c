@@ -16,7 +16,12 @@ int main(int argc, char *argv[]) {
 }
 void hot()
 {
-	printf("fast");
+    printf("cold");
+	printf("hot");
+}
+void time()
+{
+	printf("hour");
 }
 void Pw_Check(char c[])
 {
